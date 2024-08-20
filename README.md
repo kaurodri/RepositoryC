@@ -2,7 +2,7 @@
 
 ## Projetos - Rol
 
-Lista doe projetos em C
+Lista dos projetos em C
 
 |Língua|Proposta|Descrição|Repositório|
 |-----|--------|--------|--------|
